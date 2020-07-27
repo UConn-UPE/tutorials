@@ -149,3 +149,10 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# Tutorial Specific Stuff:
+script.md
+script.pdf
+notes.md
+notes.pdf
+*.mp4
